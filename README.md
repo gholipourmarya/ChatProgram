@@ -3,13 +3,13 @@ Chat_Programm
     The ChatApp project is a simple and practical chat application developed in Python. Its goal is to 
     create an environment for real-time communication between users. The app can serve as a foundation 
     for more advanced chat systems.
-2.Objective and Scope 
+2.Objective and Scope : 
     • Objective: Development of a basic real-time chat application 
     • Scope: 
         o Connecting multiple users within a local network 
         o Sending and receiving text messages 
         o Simple graphical user interface (GUI with Tkinter) 
-3. Technologies Used 
+3. Technologies Used :
     • Programming Language: Python 3.12 
     • Libraries: 
         o socket for network communication 
@@ -20,20 +20,20 @@ Chat_Programm
         o os 
         o select 
         o errno 
-4. Execution Files 
+4. Execution Files :
     • main.py 
     • server.py 
     • client.py 
     • header.py 
-5. User Guide 
+5. User Guide :
     • Users start the application 
     • A username is entered 
     • Messages can be sent and received via the GUI 
-6. Implemented Features 
+6. Implemented Features :
     • Stable network connection 
     • Concurrent text chat 
     • Multiple users connected simultaneously 
-7. Future Enhancements 
+7. Future Enhancements :
     • User authentication (login/signup) 
     • Storing messages in a database 
     • Communication encryption 
